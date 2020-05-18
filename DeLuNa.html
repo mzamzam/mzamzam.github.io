@@ -188,7 +188,7 @@ var tooltip = d3.select("body").append("div")
     .style("opacity", 0);
 
 // Get the data
-d3.csv("GCHArea.csv", function(error, data) {
+d3.csv("GCHarea.csv", function(error, data) {
     data.forEach(function(d) {
         d.tanggal = parseDate(d.tanggal);
         d.totcharea = +d.totcharea;
