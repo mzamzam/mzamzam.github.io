@@ -1,11 +1,6 @@
-Issued: 2020/06/02 0200 UT
+Issued: 2020/06/03 0200 UT
 Forecast valid for 24 hours
 
-NOAA 2764 data for 06/02, 06/01, 05/31 :
-Location,Area,Number,McIntosh,Hale
-N35E47 0 1 Axx Alpha
-N35E60 0 0 0 0
-N35E73 0 0 0 0
-=======================================================
-Maximum predicted X-Ray Flare for NOAA 2764 :: no-flare
-=======================================================
+=========================
+The Sun today is spotless
+=========================
