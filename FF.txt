@@ -1,6 +1,9 @@
-Issued: 2020/06/03 0200 UT
+Issued: 2020/06/04 0200 UT
 Forecast valid for 24 hours
 
-=========================
-The Sun today is spotless
-=========================
+NOAA 2765 data for 06/04, 06/03, 06/02 :
+Location,Area,Number,McIntosh,Hale
+S24E71 70 2 Hsx Alpha
+S24E84 0 0 0 0
+S24E97 0 0 0 0
+============================================
