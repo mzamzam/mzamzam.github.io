@@ -1,11 +1,11 @@
-Issued: 2020/06/04 0200 UT
+Issued: 2020/06/05 0200 UT
 Forecast valid for 24 hours
 
-NOAA 2765 data for 06/04, 06/03, 06/02 :
+NOAA 2765 data for 06/05, 06/04, 06/03 :
 Location,Area,Number,McIntosh,Hale
+S24E58 100 2 Hsx Alpha
 S24E71 70 2 Hsx Alpha
 S24E84 0 0 0 0
-S24E97 0 0 0 0
-============================================
-Maximum predicted X-Ray Flare for NOAA 2765 :: C
-============================================
+=======================================================
+Maximum predicted X-Ray Flare for NOAA 2765 :: no-flare
+=======================================================
