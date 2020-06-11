@@ -4,3 +4,8 @@ Forecast valid for 24 hours
 NOAA 2765 data for 06/11, 06/10, 06/09 :
 Location,Area,Number,McIntosh,Hale
 S24W21 50 1 Hsx Alpha
+S24W06 70 4 Cso Beta
+S24E07 100 7 Cso Beta
+=======================================================
+Maximum predicted X-Ray Flare for NOAA 2765 :: no-flare
+=======================================================
