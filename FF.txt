@@ -1,6 +1,11 @@
-Issued: 2020/07/10 0200 UT
+Issued: 2020/07/11 0200 UT
 Forecast valid for 24 hours
 
-=========================
-The Sun today is spotless
-=========================
+NOAA 2766 data for 07/11, 07/10, 07/09 :
+Location,Area,Number,McIntosh,Hale
+N05W65 10 2 Bxo Beta
+N05W52 0 0 0 0
+N05W39 0 0 0 0
+=======================================================
+Maximum predicted X-Ray Flare for NOAA 2766 :: no-flare
+=======================================================
