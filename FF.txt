@@ -1,6 +1,11 @@
-Issued: 2020/07/21 0200 UT
+Issued: 2020/07/22 0200 UT
 Forecast valid for 24 hours
 
-=========================
-The Sun today is spotless
-=========================
+NOAA 2767 data for 07/22, 07/21, 07/20 :
+Location,Area,Number,McIntosh,Hale
+S22E72 80 1 Hsx Alpha
+S22E85 0 0 0 0
+S22E98 0 0 0 0
+============================================
+Maximum predicted X-Ray Flare for NOAA 2767 :: M
+============================================
