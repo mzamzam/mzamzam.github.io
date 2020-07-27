@@ -1,11 +1,4 @@
-Issued: 2020/07/26 0200 UT
+Issued: 2020/07/27 0200 UT
 Forecast valid for 24 hours
 
-NOAA 2767 data for 07/26, 07/25, 07/24 :
-Location,Area,Number,McIntosh,Hale
-S21E18 120 1 Hsx Alpha
-S21E31 120 1 Hsx Alpha
-S22E44 120 1 Hsx Alpha
-=======================================================
-Maximum predicted X-Ray Flare for NOAA 2767 :: no-flare
-=======================================================
+NOAA 2767 data for 07/27, 07/26, 07/25 :
