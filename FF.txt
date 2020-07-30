@@ -1,0 +1,19 @@
+Issued: 2020/07/30 0200 UT
+Forecast valid for 24 hours
+
+NOAA 2768 data for 07/30, 07/29, 07/28 :
+Location,Area,Number,McIntosh,Hale
+N20E54 5 1 Axx Alpha
+N25E65 10 1 Axx Alpha
+N25E78 0 0 0 0
+=======================================================
+Maximum predicted X-Ray Flare for NOAA 2768 :: no-flare
+=======================================================
+NOAA 2767 data for 07/30, 07/29, 07/28 :
+Location,Area,Number,McIntosh,Hale
+S16W35 80 1 Hsx Alpha
+S20W21 40 1 Hsx Alpha
+S20W07 70 1 Hsx Alpha
+=======================================================
+Maximum predicted X-Ray Flare for NOAA 2767 :: no-flare
+=======================================================
