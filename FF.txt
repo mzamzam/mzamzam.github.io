@@ -2,3 +2,18 @@ Issued: 2020/08/04 0200 UT
 Forecast valid for 24 hours
 
 NOAA 2769 data for 08/04, 08/03, 08/02 :
+Location,Area,Number,McIntosh,Hale
+N27E41 10 2 Axx Alpha
+N26E53 10 1 Axx Alpha
+N26E66 0 0 0 0
+=======================================================
+Maximum predicted X-Ray Flare for NOAA 2769 :: no-flare
+=======================================================
+NOAA 2770 data for 08/04, 08/03, 08/02 :
+Location,Area,Number,McIntosh,Hale
+N21E72 60 1 Hsx Alpha
+N21E85 0 0 0 0
+N21E98 0 0 0 0
+=======================================================
+Maximum predicted X-Ray Flare for NOAA 2770 :: no-flare
+=======================================================
