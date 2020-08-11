@@ -1,11 +1,11 @@
-Issued: 2020/08/10 0200 UT
+Issued: 2020/08/11 0200 UT
 Forecast valid for 24 hours
 
-NOAA 2770 data for 08/10, 08/09, 08/08 :
+NOAA 2770 data for 08/11, 08/10, 08/09 :
 Location,Area,Number,McIntosh,Hale
+N23W17 20 2 Hrx Alpha
 N22W04 30 3 Cso Beta
 N22E08 50 1 Hsx Alpha
-N23E22 70 4 Cso Beta
 =======================================================
 Maximum predicted X-Ray Flare for NOAA 2770 :: no-flare
 =======================================================
