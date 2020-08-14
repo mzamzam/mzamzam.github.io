@@ -5,3 +5,7 @@ NOAA12771 3-days data:
 Date, Location, Area, Spot Number, McIntosh, Hale
 08/14 S18E31 10 1 Axx Alpha
 08/13 S18E43 10 3 Bxo Beta
+08/12 S18E56 0 0 0 0
+=======================================================
+Maximum predicted X-Ray Flare for NOAA12771 :: no-flare
+=======================================================
