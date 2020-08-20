@@ -1,11 +1,11 @@
-Issued: 2020/08/19 0200 UT
+Issued: 2020/08/20 0200 UT
 Forecast valid for 24 hours
 
 NOAA12772 3-days data: 
 Date, Location, Area, Spot Number, McIntosh, Hale
+08/20 N18W47 30 5 Cro Beta
 08/19 N18W36 10 2 Bxo Beta
 08/18 N18W23 0 0 0 0
-08/17 N18W10 0 0 0 0
 =======================================================
 Maximum predicted X-Ray Flare for NOAA12772 :: no-flare
 =======================================================
