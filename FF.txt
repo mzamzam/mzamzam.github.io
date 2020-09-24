@@ -1,6 +1,11 @@
-Issued: 2020/09/23 0200 UT
+Issued: 2020/09/24 0200 UT
 Forecast valid for 24 hours
 
-=========================
-The Sun today is spotless
-=========================
+NOAA12773 3-days data: 
+Date, Location, Area, Spot Number, McIntosh, Hale
+09/24 N28E62 10 3 Bxo Beta
+09/23 N28E75 0 0 0 0
+09/22 N28E88 0 0 0 0
+=======================================================
+Maximum predicted X-Ray Flare for NOAA12773 :: no-flare
+=======================================================
