@@ -1,11 +1,11 @@
-Issued: 2020/10/26 0200 UT
+Issued: 2020/10/27 0200 UT
 Forecast valid for 24 hours
 
-NOAA12776 3-days data: 
+NOAA12778 3-days data: 
 Date, Location, Area, Spot Number, McIntosh, Hale
-10/26 S14W83 40 1 Hsx Alpha
-10/25 S14W70 40 1 Hsx Alpha
-10/24 S14W57 60 1 Hsx Alpha
+10/27 S19W17 80 7 Cai Beta
+10/26 S19W04 0 0 0 0
+10/25 S19E09 0 0 0 0
 =======================================================
-Maximum predicted X-Ray Flare for NOAA12776 :: no-flare
+Maximum predicted X-Ray Flare for NOAA12778 :: no-flare
 =======================================================
