@@ -1,19 +1,11 @@
-Issued: 2020/11/01 0200 UT
+Issued: 2020/11/02 0200 UT
 Forecast valid for 24 hours
 
-NOAA12778 3-days data: 
-Date, Location, Area, Spot Number, McIntosh, Hale
-11/01 S22W80 100 2 Hax Alpha
-10/31 S20W70 160 6 Eao Beta
-10/30 S20W56 300 8 Eko Beta
-============================================
-Maximum predicted X-Ray Flare for NOAA12778 :: C
-============================================
 NOAA12779 3-days data: 
 Date, Location, Area, Spot Number, McIntosh, Hale
+11/02 S17W85 10 2 Bxo Beta
 11/01 S16W72 20 4 Bxo Beta
 10/31 S15W57 100 6 Cao Beta
-10/30 S17W45 140 7 Dai Beta
 =======================================================
 Maximum predicted X-Ray Flare for NOAA12779 :: no-flare
 =======================================================
