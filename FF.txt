@@ -1,0 +1,19 @@
+Issued: 2020/11/06 0200 UT
+Forecast valid for 24 hours
+
+NOAA12780 3-days data: 
+Date, Location, Area, Spot Number, McIntosh, Hale
+11/06 N20E15 10 1 Axx Alpha
+11/05 N20E28 0 0 0 0
+11/04 N20E41 0 0 0 0
+=======================================================
+Maximum predicted X-Ray Flare for NOAA12780 :: no-flare
+=======================================================
+NOAA12781 3-days data: 
+Date, Location, Area, Spot Number, McIntosh, Hale
+11/06 S24E46 450 7 Dki Beta
+11/05 S25E55 410 8 Ehi Beta
+11/04 S23E66 150 5 Cso Beta
+============================================
+Maximum predicted X-Ray Flare for NOAA12781 :: C
+============================================
