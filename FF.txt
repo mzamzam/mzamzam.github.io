@@ -1,11 +1,19 @@
-Issued: 2020/11/11 0200 UT
+Issued: 2020/11/12 0200 UT
 Forecast valid for 24 hours
 
 NOAA12781 3-days data: 
 Date, Location, Area, Spot Number, McIntosh, Hale
+11/12 S23W35 100 2 Cso Beta
 11/11 S23W23 230 17 Eso Beta
 11/10 S23W09 230 17 Esi Beta
-11/09 S23E03 250 18 Ehi Beta
 ============================================
 Maximum predicted X-Ray Flare for NOAA12781 :: C
 ============================================
+NOAA12782 3-days data: 
+Date, Location, Area, Spot Number, McIntosh, Hale
+11/12 S31E64 20 3 Cro Beta
+11/11 S31E77 0 0 0 0
+11/10 S31E90 0 0 0 0
+=======================================================
+Maximum predicted X-Ray Flare for NOAA12782 :: no-flare
+=======================================================
