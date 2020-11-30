@@ -1,35 +1,51 @@
-Issued: 2020/11/29 0200 UT
+Issued: 2020/11/30 0200 UT
 Forecast valid for 24 hours
 
 NOAA12783 3-days data: 
 Date, Location, Area, Spot Number, McIntosh, Hale
+11/30 S22W89 20 1 Hsx Alpha
 11/29 S22W75 50 1 Hsx Alpha
 11/28 S22W59 60 3 Cso Beta
-11/27 S22W47 80 3 Cso Beta
 =======================================================
 Maximum predicted X-Ray Flare for NOAA12783 :: no-flare
 =======================================================
 NOAA12785 3-days data: 
 Date, Location, Area, Spot Number, McIntosh, Hale
+11/30 S23W22 90 1 Hsx Alpha
 11/29 S25W01 120 8 Fso Beta
 11/28 S22E12 110 2 Cso Beta
-11/27 S21E18 100 1 Hsx Alpha
-============================================
-Maximum predicted X-Ray Flare for NOAA12785 :: C
-============================================
+=======================================================
+Maximum predicted X-Ray Flare for NOAA12785 :: no-flare
+=======================================================
 NOAA12786 3-days data: 
 Date, Location, Area, Spot Number, McIntosh, Hale
+11/30 S17E03 770 13 Fki Beta-Gamma
 11/29 S18E15 780 17 Fko Beta-Gamma
 11/28 S18E29 800 14 Fko Beta-Gamma
-11/27 S17E41 840 9 Fko Beta-Gamma
 ============================================
 Maximum predicted X-Ray Flare for NOAA12786 :: M
 ============================================
 NOAA12787 3-days data: 
 Date, Location, Area, Spot Number, McIntosh, Hale
+11/30 N29E37 10 1 Axx Alpha
 11/29 N29E51 10 1 Axx Alpha
 11/28 N29E64 10 1 Axx Alpha
-11/27 N29E77 0 0 0 0
 =======================================================
 Maximum predicted X-Ray Flare for NOAA12787 :: no-flare
+=======================================================
+NOAA12788 3-days data: 
+Date, Location, Area, Spot Number, McIntosh, Hale
+11/30 S26W07 30 7 Cro Beta
+11/29 S26E06 0 0 0 0
+11/28 S26E19 0 0 0 0
+=======================================================
+Maximum predicted X-Ray Flare for NOAA12788 :: no-flare
+=======================================================
+NOAA12789 3-days data: 
+Date, Location, Area, Spot Number, McIntosh, Hale
+11/30 S25E43 10 1 Axx Alpha
+11/29 S25E56 0 0 0 0
+11/28 S25E69 0 0 0 0
+=======================================================
+Maximum predicted X-Ray Flare for NOAA12789 :: no-flare
 =======================================================
