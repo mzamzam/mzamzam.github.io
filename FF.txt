@@ -1,19 +1,11 @@
-Issued: 2020/12/16 0200 UT
+Issued: 2020/12/17 0200 UT
 Forecast valid for 24 hours
 
-NOAA12792 3-days data: 
-Date, Location, Area, Spot Number, McIntosh, Hale
-12/16 S22E26 10 2 Bxo Beta
-12/15 S22E39 10 3 Bxo Beta
-12/14 S22E52 10 4 Bxo Beta
-=======================================================
-Maximum predicted X-Ray Flare for NOAA12792 :: no-flare
-=======================================================
 NOAA12793 3-days data: 
 Date, Location, Area, Spot Number, McIntosh, Hale
+12/17 S15E35 30 2 Cro Beta
 12/16 S15E49 20 3 Cro Beta
 12/15 S16E60 10 2 Axx Alpha
-12/14 S16E73 0 0 0 0
 =======================================================
 Maximum predicted X-Ray Flare for NOAA12793 :: no-flare
 =======================================================
