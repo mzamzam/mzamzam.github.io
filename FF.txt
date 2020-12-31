@@ -1,19 +1,19 @@
-Issued: 2020/12/30 0200 UT
+Issued: 2020/12/31 0200 UT
 Forecast valid for 24 hours
 
 NOAA12794 3-days data: 
 Date, Location, Area, Spot Number, McIntosh, Hale
+12/31 S15W54 170 1 Hsx Alpha
 12/30 S17W39 180 1 Hsx Alpha
 12/29 S16W26 180 1 Hsx Alpha
-12/28 S16W12 210 1 Hsx Alpha
 =======================================================
 Maximum predicted X-Ray Flare for NOAA12794 :: no-flare
 =======================================================
 NOAA12795 3-days data: 
 Date, Location, Area, Spot Number, McIntosh, Hale
+12/31 S18W25 40 5 Cro Beta
 12/30 S19W10 130 5 Cao Beta
 12/29 S17E02 120 5 Dao Beta
-12/28 S17E15 150 5 Dso Beta
 =======================================================
 Maximum predicted X-Ray Flare for NOAA12795 :: no-flare
 =======================================================
