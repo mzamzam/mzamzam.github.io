@@ -1,19 +1,27 @@
-Issued: 2021/01/22 0200 UT
+Issued: 2021/01/24 0200 UT
 Forecast valid for 24 hours
 
 NOAA12797 3-days data: 
 Date, Location, Area, Spot Number, McIntosh, Hale
+01/24 S17W04 50 2 Hax Alpha
+01/23 S18E09 70 2 Hax Alpha
 01/22 S18E22 70 2 Hax Alpha
-01/21 S18E37 50 2 Hsx Alpha
-01/20 S17E55 120 4 Cao Beta
 =======================================================
 Maximum predicted X-Ray Flare for NOAA12797 :: no-flare
 =======================================================
 NOAA12798 3-days data: 
 Date, Location, Area, Spot Number, McIntosh, Hale
+01/24 S16E05 10 1 Axx Alpha
+01/23 S16E18 20 5 Cro Beta
 01/22 S16E34 40 4 Cao Beta
-01/21 S17E46 60 3 Cao Beta
-01/20 S17E59 0 0 0 0
 =======================================================
 Maximum predicted X-Ray Flare for NOAA12798 :: no-flare
+=======================================================
+NOAA12799 3-days data: 
+Date, Location, Area, Spot Number, McIntosh, Hale
+01/24 N22W45 10 1 Axx Alpha
+01/23 N21W30 10 2 Bxo Beta
+01/22 N21W17 0 0 0 0
+=======================================================
+Maximum predicted X-Ray Flare for NOAA12799 :: no-flare
 =======================================================
