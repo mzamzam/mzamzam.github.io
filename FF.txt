@@ -1,11 +1,11 @@
-Issued: 2021/02/03 0200 UT
+Issued: 2021/02/04 0200 UT
 Forecast valid for 24 hours
 
 NOAA12801 3-days data: 
 Date, Location, Area, Spot Number, McIntosh, Hale
+02/04 N30W59 0 1 Axx Alpha
 02/03 N31W43 10 2 Bxo Beta
 02/02 N31W30 0 0 0 0
-02/01 N31W17 0 0 0 0
 =======================================================
 Maximum predicted X-Ray Flare for NOAA12801 :: no-flare
 =======================================================
