@@ -1,11 +1,19 @@
-Issued: 2021/02/22 0200 UT
+Issued: 2021/02/23 0200 UT
 Forecast valid for 24 hours
 
-NOAA12803 3-days data: 
+NOAA12804 3-days data: 
 Date, Location, Area, Spot Number, McIntosh, Hale
-02/22 N20E38 10 1 Axx Alpha
-02/21 N21E49 10 2 Axx Alpha
-02/20 N21E62 30 2 Axx Alpha
+02/23 N18W08 30 3 Cro Beta
+02/22 N18E05 0 0 0 0
+02/21 N18E18 0 0 0 0
 =======================================================
-Maximum predicted X-Ray Flare for NOAA12803 :: no-flare
+Maximum predicted X-Ray Flare for NOAA12804 :: no-flare
+=======================================================
+NOAA12805 3-days data: 
+Date, Location, Area, Spot Number, McIntosh, Hale
+02/23 S23W02 10 3 Bxo Beta
+02/22 S23E11 0 0 0 0
+02/21 S23E24 0 0 0 0
+=======================================================
+Maximum predicted X-Ray Flare for NOAA12805 :: no-flare
 =======================================================
