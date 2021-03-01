@@ -1,0 +1,11 @@
+Issued: 2021/02/28 0200 UT
+Forecast valid for 24 hours
+
+NOAA12804 3-days data: 
+Date, Location, Area, Spot Number, McIntosh, Hale
+02/28 N21W74 190 4 Dso Beta
+02/27 N18W58 170 6 Dsi Beta
+02/26 N18W46 190 10 Dsi Beta
+============================================
+Maximum predicted X-Ray Flare for NOAA12804 :: C
+============================================
