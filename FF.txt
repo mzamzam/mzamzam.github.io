@@ -1,11 +1,19 @@
-Issued: 2021/03/09 0200 UT
+Issued: 2021/03/10 0200 UT
 Forecast valid for 24 hours
 
-NOAA12806 3-days data: 
+NOAA12807 3-days data: 
 Date, Location, Area, Spot Number, McIntosh, Hale
-03/09 S31W77 20 2 Cro Beta
-03/08 S30W64 10 4 Bxo Beta
-03/07 S31W55 10 1 Axx Alpha
+03/10 S18W50 10 2 Bxo Beta
+03/09 S18W37 0 0 0 0
+03/08 S18W24 0 0 0 0
 =======================================================
-Maximum predicted X-Ray Flare for NOAA12806 :: no-flare
+Maximum predicted X-Ray Flare for NOAA12807 :: no-flare
+=======================================================
+NOAA12808 3-days data: 
+Date, Location, Area, Spot Number, McIntosh, Hale
+03/10 N19E68 20 1 Hsx Alpha
+03/09 N19E81 0 0 0 0
+03/08 N19E94 0 0 0 0
+=======================================================
+Maximum predicted X-Ray Flare for NOAA12808 :: no-flare
 =======================================================
