@@ -1,11 +1,6 @@
-Issued: 2021/03/30 0200 UT
+Issued: 2021/03/31 0200 UT
 Forecast valid for 24 hours
 
-NOAA12812 3-days data: 
-Date, Location, Area, Spot Number, McIntosh, Hale
-03/30 N22W22 20 3 Bxo Beta
-03/29 N21W12 10 1 Hrx Alpha
-03/28 N21E01 30 1 Hax Alpha
-=======================================================
-Maximum predicted X-Ray Flare for NOAA12812 :: no-flare
-=======================================================
+=========================
+The Sun today is spotless
+=========================
