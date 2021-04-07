@@ -1,11 +1,11 @@
-Issued: 2021/04/06 0200 UT
+Issued: 2021/04/07 0200 UT
 Forecast valid for 24 hours
 
 NOAA12813 3-days data: 
 Date, Location, Area, Spot Number, McIntosh, Hale
+04/07 N20W65 0 1 Axx Alpha
 04/06 N20W50 5 1 Axx Alpha
 04/05 N21W37 10 1 Axx Alpha
-04/04 N21W24 0 0 0 0
 =======================================================
 Maximum predicted X-Ray Flare for NOAA12813 :: no-flare
 =======================================================
