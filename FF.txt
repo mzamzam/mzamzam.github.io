@@ -2,3 +2,10 @@ Issued: 2021/04/16 0200 UT
 Forecast valid for 24 hours
 
 NOAA12814 3-days data: 
+Date, Location, Area, Spot Number, McIntosh, Hale
+04/16 S22W31 50 12 Dro Beta
+04/15 S22W18 90 7 Cro Beta
+04/14 S22W05 30 6 Bxo Beta
+============================================
+Maximum predicted X-Ray Flare for NOAA12814 :: C
+============================================
