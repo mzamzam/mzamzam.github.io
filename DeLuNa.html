@@ -42,6 +42,43 @@ div.tooltip {
     pointer-events: none;           
 }
 
+/* Style the tab */
+.tab {
+  overflow: hidden;
+  border: 1px solid #ccc;
+  background-color: #f1f1f1;
+}
+
+/* Style the buttons inside the tab */
+.tab button {
+  background-color: inherit;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+  font-size: 17px;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+  background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+.tab button.active {
+  background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+  display: none;
+  padding: 6px 12px;
+  border: 1px solid #ccc;
+  border-top: none;
+}
+
 </style>
 <body style="background-color:#EAECEE;">
 <body class="">
@@ -59,13 +96,26 @@ div.tooltip {
 <tr>
 </tr>
 <tr>
-<td><a href="http://10.10.10.202/DeLuNa.html"><img src="DeLuNa.png" alt="DeLuNa" width="100"/></a></td>
+<td><a href="bit.ly/DeLuNa"><img src="DeLuNa.png" alt="DeLuNa" width="100"/></a></td>
 <td><img src="" alt=""/></td>
 <td><a href="http://swifts.sains.lapan.go.id"><img src="Logo_SWIFtS_long.png" alt="SWIFtS (T.Dani)" width="250"/></a></td>
 </tr>
 </tbody>
 </table>
 
+<div style="font-size:30px;">
+<h3>Space Weather Model</h3>
+</div>
+
+<div class="tab">
+  <button id="but1" class="tablinks" onclick="openCity(event, 'Flare')">Solar Flare</button>
+  <button id="but2" class="tablinks" onclick="openCity(event, 'AR')">Active Region</button>
+  <button id="but3" class="tablinks" onclick="openCity(event, 'CHSW')">Coronal Hole & Solar Wind</button>
+  <button id="but4" class="tablinks" onclick="openCity(event, 'Farside')">Solar Farside</button>
+  <button id="but5" class="tablinks" onclick="openCity(event, 'Geo')">Geomagnetic</button>
+</div>
+
+<div id="Flare" class="tabcontent">
 <h3>Deep Learning FlaMPP (Flare Prediction using Magnetogram Polarity Inversion Line) (Beta version)</h3>
 <div style="font-size:0;">
 <p><img src="FlaMPP.png" id="FlaMPP" alt="FlaMPP" width="435" /></p>
@@ -79,17 +129,6 @@ div.tooltip {
 <p style="font-family:Garamond;">Researcher in this section: <b>T. Dani, S. Sulistiani, A.Z. Utama, S.K. Fatimah, G.P. Putri.</b>
 <p></p>
 
-<h3>Sunspot and Magnetic Polarity Automatic Detection (Beta version) (Utama et al., In-Review)</h3>
-<div style="font-size:0;">
-<p><img src="latest_sunspot.png" id="HMII" alt="HMII Flat" width="435" /><img src="latest_magnetic.png" alt="HMIB" width="435" /></p>
-</div>
-
-<p style="font-family:Garamond;">The images above show the detection of the sunspot group from SDO/HMI Intensitygram instrument (left) and the detection of polarity pairs of the magnetic group and Polarity Inversion Line (PIL) <em>(if any)</em> from SDO/HMI Magnetogram (right). The detected sunspot group numbered and indicated by the red box with the total sunspot group displayed on the upper left of the image. As for the Magnetogram image, the detected magnetic pair numbered and indicated by the light-blue box with the total magnetic pair displayed on the upper left of the image. The positive polarity indicated by the blue contour, negative polarity indicated by the red contour, and PIL indicated by the green line.</p>
-<p style="font-family:Garamond;">The detection algorithm is heavily coded by <b>A. Z. Utama.</b> This image updated <b>twice a day at 0000UT and 1200UT.</b></p>
-<p style="font-family:Garamond;">SDO/HMI Intensitygram and Magnetogram image are courtesy of NASA/SDO and the HMI science teams. Right-click and Open Image in New Tab for better image resolution.</p>
-<p style="font-family:Garamond;">Researcher in this section: <b>T. Dani, S. Sulistiani, A.Z. Utama, S.K. Fatimah, G.P. Putri.</b>
-<p></p>
-
 <h3>Flare Prediction Using Random Forest <a href="http://jurnal.lapan.go.id/index.php/jurnal_sains/article/view/3088">(Sulistiani & Dani, 2018)</a></h3>
 
 <div id="list">
@@ -97,7 +136,55 @@ div.tooltip {
       width="95%"></iframe></p>
 </div>
 <b><p>Note:The flare prediction box is scrollable when overfull. Please clear cache in your browser if the forecast information not updating.</p></b>
+<!-- load the d3.js library --> 
+<script type="text/javascript" src="https://code.jquery.com/jquery-latest.js"></script>   
+<script src="https://d3js.org/d3.v3.js"></script>
+<script>
+$("#but1").click(function() {
+    d3.selectAll("svg").remove();
+    })
+</script>
+</div>
 
+<div id="AR" class="tabcontent">
+<h3>Sunspot and Magnetic Polarity Automatic Detection (Beta version) (Utama et al., In-Review)</h3>
+<div style="font-size:0;">
+<p><img src="latest_sunspot.png" id="HMII" alt="HMII Flat" width="435" /><img src="latest_magnetic.png" alt="HMIB" width="435" /></p>
+<!-- load the d3.js library --> 
+<script type="text/javascript" src="https://code.jquery.com/jquery-latest.js"></script>   
+<script src="https://d3js.org/d3.v3.js"></script>
+<script>
+$("#but2").click(function() {
+    d3.selectAll("svg").remove();
+    })
+</script>
+</div>
+
+<p style="font-family:Garamond;">The images above show the detection of the sunspot group from SDO/HMI Intensitygram instrument (left) and the detection of polarity pairs of the magnetic group and Polarity Inversion Line (PIL) <em>(if any)</em> from SDO/HMI Magnetogram (right). The detected sunspot group numbered and indicated by the red box with the total sunspot group displayed on the upper left of the image. As for the Magnetogram image, the detected magnetic pair numbered and indicated by the light-blue box with the total magnetic pair displayed on the upper left of the image. The positive polarity indicated by the blue contour, negative polarity indicated by the red contour, and PIL indicated by the green line.</p>
+<p style="font-family:Garamond;">The detection algorithm is heavily coded by <b>A. Z. Utama.</b> This image updated <b>twice a day at 0000UT and 1200UT.</b></p>
+<p style="font-family:Garamond;">SDO/HMI Intensitygram and Magnetogram image are courtesy of NASA/SDO and the HMI science teams. Right-click and Open Image in New Tab for better image resolution.</p>
+<p style="font-family:Garamond;">Researcher in this section: <b>T. Dani, S. Sulistiani, A.Z. Utama, S.K. Fatimah, G.P. Putri.</b>
+<p></p>
+</div>
+
+<div id="Geo" class="tabcontent">
+<h3>Nowcast Geomagnetic Activity</h3>
+<div style="font-size:0;">
+<p><img src="LatestNowcastDst.png" alt="AIAEUVI" width="650" /></p>
+</div>
+<p style="font-family:Garamond;">Researcher in this section: <b>F. Nuraeni</b>
+<!-- load the d3.js library --> 
+<script type="text/javascript" src="https://code.jquery.com/jquery-latest.js"></script>   
+<script src="https://d3js.org/d3.v3.js"></script>
+<script>
+$("#but5").click(function() {
+    d3.selectAll("svg").remove();
+    })
+</script>
+<p></p>
+</div>
+
+<div id="Farside" class="tabcontent">
 <h3>Solar Farside Bright Regions Automatic Detection (Nurzaman et al., In-Review)</h3>
 <div style="font-size:0;">
 <p><img src="AIA_EUVI_.png" alt="AIAEUVI" width="650" /></p>
@@ -105,7 +192,18 @@ div.tooltip {
 </div>
 <p style="font-family:Garamond;">Researcher in this section: <b>J. Muhamad, R. Kesumaningrum, S. Sulistiani, M.Z. Nurzaman, A.D. Pangestu.</b>
 <p></p>
+<!-- load the d3.js library --> 
+<script type="text/javascript" src="https://code.jquery.com/jquery-latest.js"></script>   
+<script src="https://d3js.org/d3.v3.js"></script>
+<script>
+$("#but4").click(function() {
+    d3.selectAll("svg").remove();
+    })
+</script>
+</div>
 
+
+<div id="CHSW" class="tabcontent">
 <h3>DeLuNa <a href="http://jurnal.lapan.go.id/index.php/jurnal_sains/article/view/3126/2535">(Dani et al., 2019)</a> and Solar Wind Speed Forecast using Deep Learning</h3>
 <p style="font-family:Garamond;">The forecast algorithm is based on a Deep Learning using Long Short-Term Memory model. This model using input from the DeLuNa measurements of the geoeffective coronal hole area observed by SDO/AIA193 and the solar wind speed measurement at L1 point from NASA/NOAA DSCOVR satellites. Coronal hole feature recognition algorithms called DeLuNa, extract the geoeffective area of the coronal holes from SDO/AIA193 images.</p>
 <p style="font-family:Garamond;">Images below show the extraction of the coronal hole areas from SDO/ AIA193 instrument using DeLuNa (left) with the information of the coronal holes centroid location and the solar wind speed forecast (previous and the next 24 hours) together with the measured data from DSCOVR (right). </p>
@@ -129,160 +227,41 @@ div.tooltip {
 <div class="caption"><p style="font-family:Garamond;">Left: The Sun observation from SDO/AIA193, the extracted coronal hole areas (green contours) and geoffective coronal hole areas (red dashed box) which are used for calculating the solar wind speed at 1AU. Right: The solar wind speed as measured by NASA/NOAA DSCOVR (black dotted with lines), previous 24 hours forecast (red dotted), and next 24 hours forecast (blue dotted).</p></div>
 <div class="caption"> </div>
 
-
 <h3>Near-realtime Geoeffective Coronal Hole Areas vs Time</h3>
 <p style="font-family:Garamond;">This D3.js based website visualize the changes of Geoeffective Coronal Hole Area based on DeLuNa LAPAN detection from SDO/AIA193 image. The chart is <b>updated hourly.</b> Press "Refresh" button on your browser to update the chart.</p>
 <p style="font-family:Garamond;">SDO/AIA193 image list obtained and downloaded automatically from NASA SDO/AIA193 website using Python. Then, DeLuNa automatically detected the Coronal Hole and measure it's geoeffective area.</p>
 <p style="font-family:Garamond;">The chart need an internet connection to displayed properly.</p>
 <p style="font-family:Garamond;">Researcher in this section: <b>T. Dani, R. Priyatikanto, A. Winarko, G.P. Putri, H. Sutastio.</b></p>
 <p style="font-family:Garamond;">Copyright (c) LAPAN 2019. All rights reserved.</p>      
-<!-- load the d3.js library -->    
-<script src="http://d3js.org/d3.v3.min.js"></script>
+<p></p>
+
+<!-- load the d3.js library --> 
+<script type="text/javascript" src="https://code.jquery.com/jquery-latest.js"></script>   
+<script src="https://d3js.org/d3.v3.js"></script>
 
 <script>
-
-// Set the dimensions of the canvas / graph
-var margin = {top: 30, right: 20, bottom: 30, left: 50},
-    width = 800 - margin.left - margin.right,
-    height = 340 - margin.top - margin.bottom;
-//default 1200 x 540
-
-// Parse the date / time
-var parseDate = d3.time.format("%d-%m-%Y %H:%M:%S").parse;
-
-// Format comma
-var formatDecimal = d3.format(".2f");
-
-// Format date
-var datedis = d3.time.format("%d-%m-%Y %H:%M:%S");
-
-// Set the ranges
-var x = d3.time.scale().range([0, width]);
-var y = d3.scale.linear().range([height, 0]);
-
-// Define the axes
-var xAxis = d3.svg.axis().scale(x)
-    .orient("bottom").ticks(5);
-
-var yAxis = d3.svg.axis().scale(y)
-    .orient("left").ticks(5);
-
-// Define the line
-var valueline = d3.svg.line()
-    .x(function(d) { return x(d.tanggal); })
-    .y(function(d) { return y(d.gcharea); });
-    
-// Adds the svg canvas
-var svg = d3.select("body")
-    .append("svg")
-        .attr("width", width + margin.left + margin.right)
-        .attr("height", height + margin.top + margin.bottom)
-    .append("g")
-        .attr("transform", 
-              "translate(" + margin.left + "," + margin.top + ")");
-	
-function make_x_axis() {        
-    return d3.svg.axis()
-        .scale(x)
-         .orient("bottom")
-         .ticks(15)
-}
-
-function make_y_axis() {        
-    return d3.svg.axis()
-        .scale(y)
-        .orient("left")
-        .ticks(10)
-}
-
-// add the tooltip area to the webpage
-var tooltip = d3.select("body").append("div")
-    .attr("class", "tooltip")
-    .style("opacity", 0);
-
-// Get the data
-d3.csv("GCHarea.csv", function(error, data) {
-    data.forEach(function(d) {
-        d.tanggal = parseDate(d.tanggal);
-        d.totcharea = +d.totcharea;
-        d.gcharea = +d.gcharea;
-        d.eta = +d.eta;
-    });
-
-    // Scale the range of the data
-    x.domain(d3.extent(data, function(d) { return d.tanggal; }));
-    y.domain([0, d3.max(data, function(d) { return d.gcharea; })]);
-
-    // Add the valueline path.
-    svg.append("path")
-        .attr("class", "line")
-        .attr("d", valueline(data));
-    
-    // Add the scatter plot
-    svg.selectAll("dot")    
-        .data(data)         
-        .enter().append("circle")
-        //.style("fill",color(grey))                               
-        .attr("r", 2)       
-        .attr("cx", function(d) { return x(d.tanggal); })       
-        .attr("cy", function(d) { return y(d.gcharea); })     
-        .on("mouseover", function(d) {
-            tooltip.transition()
-               .duration(200)
-               .style("opacity", .9);
-            tooltip.html("Datetime: " + datedis(d.tanggal) + " UT" + "<br/> Total CH Area: " + d.totcharea + "%" + "<br/> Geoeffective CH Area: " + d.gcharea + "%" + "<br/> Predicted Geomagnetic Scale Activities: " + d["scale"] + "<br/> ETA: " + formatDecimal(d.eta/24) + " days") 
-               .style("left", (d3.event.pageX + 5) + "px")
-               .style("top", (d3.event.pageY - 28) + "px");
-        })
-        .on("mouseout", function(d) {
-            tooltip.transition()
-               .duration(500)
-               .style("opacity", 0);
-        });
-
-    // Add the X Axis
-    svg.append("g")
-        .attr("class", "x axis")
-        .attr("transform", "translate(0," + height + ")")
-        .call(xAxis)
-        .append("text")
-        .attr("class", "label")
-        .attr("x", width)
-        .attr("y", -6)
-        .style("text-anchor", "end")
-        .text("Date (UT)");
-
-    // Add the Y Axis
-    svg.append("g")
-        .attr("class", "y axis")
-        .call(yAxis)
-        .append("text")
-        .attr("class", "label")
-        .attr("transform", "rotate(-90)")
-        .attr("y", -50)
-        .attr("dy", ".71em")
-        .style("text-anchor", "end")
-        .text("Coronal Hole Area (%)");
-	
-	//Add gridlines
-	svg.append("g")         
-        .attr("class", "grid")
-        .attr("transform", "translate(0," + height + ")")
-        .style("stroke-dasharray",("1,1"))
-        .call(make_x_axis()
-            .tickSize(-height, 0, 0)
-            .tickFormat("")
-        )
-
-    svg.append("g")         
-        .attr("class", "grid")
-        .style("stroke-dasharray",("1,1"))
-        .call(make_y_axis()
-            .tickSize(-width, 0, 0)
-            .tickFormat("")
-        )
-
-});
-
+$("#but3").click(function() {
+    $.getScript("chplot.js");
+    d3.selectAll("svg").remove();
+    })
 </script>
+
+</div>
+
+<script>
+function openCity(evt, cityName) {
+  var i, tabcontent, tablinks;
+  tabcontent = document.getElementsByClassName("tabcontent");
+  for (i = 0; i < tabcontent.length; i++) {
+    tabcontent[i].style.display = "none";
+  }
+  tablinks = document.getElementsByClassName("tablinks");
+  for (i = 0; i < tablinks.length; i++) {
+    tablinks[i].className = tablinks[i].className.replace(" active", "");
+  }
+  document.getElementById(cityName).style.display = "block";
+  evt.currentTarget.className += " active";
+}
+</script>
+
 </body>
