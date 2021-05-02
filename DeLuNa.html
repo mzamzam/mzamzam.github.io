@@ -104,16 +104,18 @@ div.tooltip {
 </table>
 
 <div style="font-size:30px;">
-<h3>Space Weather Model</h3>
+<h3>SWIFtS LAPAN Space Weather Model</h3>
 </div>
 
 <div class="tab">
   <button id="but1" class="tablinks" onclick="openCity(event, 'Flare')">Solar Flare</button>
-  <button id="but2" class="tablinks" onclick="openCity(event, 'AR')">Active Region</button>
+  <button id="but2" class="tablinks active" onclick="openCity(event, 'AR')">Active Region</button>
   <button id="but3" class="tablinks" onclick="openCity(event, 'CHSW')">Coronal Hole & Solar Wind</button>
   <button id="but4" class="tablinks" onclick="openCity(event, 'Farside')">Solar Farside</button>
   <button id="but5" class="tablinks" onclick="openCity(event, 'Geo')">Geomagnetic</button>
 </div>
+
+<body onload="document.getElementById('but2').click();">
 
 <div id="Flare" class="tabcontent">
 <h3>Deep Learning FlaMPP (Flare Prediction using Magnetogram Polarity Inversion Line) (Beta version)</h3>
