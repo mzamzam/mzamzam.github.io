@@ -1,11 +1,6 @@
-Issued: 2021/05/02 0200 UT
+Issued: 2021/05/03 0200 UT
 Forecast valid for 24 hours
 
-NOAA12818 3-days data: 
-Date, Location, Area, Spot Number, McIntosh, Hale
-05/02 S16W80 10 1 Axx Alpha
-05/01 S16W67 20 1 Hsx Alpha
-04/30 S16W53 20 1 Hsx Alpha
-=======================================================
-Maximum predicted X-Ray Flare for NOAA12818 :: no-flare
-=======================================================
+=========================
+The Sun today is spotless
+=========================
