@@ -6,3 +6,6 @@ Date, Location, Area, Spot Number, McIntosh, Hale
 05/10 N18E45 180 8 Dsi Beta-Gamma
 05/09 N18E57 180 7 Csi Beta
 05/08 N18E70 130 5 Cso Beta
+============================================
+Maximum predicted X-Ray Flare for NOAA12822 :: M
+============================================
