@@ -1,19 +1,19 @@
-Issued: 2021/05/19 0200 UT
+Issued: 2021/05/20 0200 UT
 Forecast valid for 24 hours
 
 NOAA12822 3-days data: 
 Date, Location, Area, Spot Number, McIntosh, Hale
+05/20 N18W91 40 1 Hsx Alpha
 05/19 N18W77 40 1 Hsx Alpha
 05/18 N17W64 40 1 Hsx Alpha
-05/17 N17W49 50 1 Hsx Alpha
 =======================================================
 Maximum predicted X-Ray Flare for NOAA12822 :: no-flare
 =======================================================
 NOAA12824 3-days data: 
 Date, Location, Area, Spot Number, McIntosh, Hale
+05/20 N19E52 130 3 Hsx Alpha
 05/19 N19E65 120 3 Cao Beta
 05/18 N19E78 0 0 0 0
-05/17 N19E91 0 0 0 0
-============================================
-Maximum predicted X-Ray Flare for NOAA12824 :: C
-============================================
+=======================================================
+Maximum predicted X-Ray Flare for NOAA12824 :: no-flare
+=======================================================
