@@ -1,0 +1,19 @@
+Issued: 2021/05/28 0200 UT
+Forecast valid for 24 hours
+
+NOAA12824 3-days data: 
+Date, Location, Area, Spot Number, McIntosh, Hale
+05/28 N20W55 250 5 Dho Beta
+05/27 N20W41 250 5 Cso Beta
+05/26 N20W27 120 8 Cso Beta
+============================================
+Maximum predicted X-Ray Flare for NOAA12824 :: C
+============================================
+NOAA12826 3-days data: 
+Date, Location, Area, Spot Number, McIntosh, Hale
+05/28 N24W74 280 9 Dko Beta
+05/27 N24W60 240 9 Dai Beta
+05/26 N24W47 20 8 Cri Beta
+============================================
+Maximum predicted X-Ray Flare for NOAA12826 :: C
+============================================
