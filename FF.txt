@@ -1,11 +1,11 @@
-Issued: 2021/06/23 0200 UT
+Issued: 2021/06/24 0200 UT
 Forecast valid for 24 hours
 
 NOAA12833 3-days data: 
 Date, Location, Area, Spot Number, McIntosh, Hale
+06/24 N24W65 140 1 Hsx Alpha
 06/23 N25W50 130 2 Hsx Alpha
 06/22 N23W38 120 1 Hsx Alpha
-06/21 N25W27 90 3 Cso Beta
 =======================================================
 Maximum predicted X-Ray Flare for NOAA12833 :: no-flare
 =======================================================
