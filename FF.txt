@@ -1,27 +1,35 @@
-Issued: 2021/07/02 0200 UT
+Issued: 2021/07/04 0200 UT
 Forecast valid for 24 hours
 
 NOAA12835 3-days data: 
 Date, Location, Area, Spot Number, McIntosh, Hale
+07/04 S18W43 620 33 Dkc Beta-Delta
+07/03 S18W29 560 31 Dkc Beta-Delta
 07/02 S18W16 770 20 Ekc Beta-Gamma
-07/01 S18W01 500 18 Eki Beta-Gamma-Delta
-06/30 S18E13 370 16 Eki Beta-Gamma-Delta
 ============================================
-Maximum predicted X-Ray Flare for NOAA12835 :: M
+Maximum predicted X-Ray Flare for NOAA12835 :: X
 ============================================
 NOAA12836 3-days data: 
 Date, Location, Area, Spot Number, McIntosh, Hale
+07/04 S26W50 10 1 Axx Alpha
+07/03 S26W36 10 2 Axx Alpha
 07/02 S26W22 20 1 Hsx Alpha
-07/01 S27W06 20 3 Cro Beta
-06/30 S28E07 20 8 Cro Beta
 =======================================================
 Maximum predicted X-Ray Flare for NOAA12836 :: no-flare
 =======================================================
 NOAA12837 3-days data: 
 Date, Location, Area, Spot Number, McIntosh, Hale
+07/04 N17E01 20 4 Bxo Beta
+07/03 N17E15 30 9 Dro Beta
 07/02 N17E29 20 5 Bxo Beta
-07/01 N17E42 20 2 Hrx Alpha
-06/30 N17E56 20 2 Hrx Alpha
 =======================================================
 Maximum predicted X-Ray Flare for NOAA12837 :: no-flare
+=======================================================
+NOAA12838 3-days data: 
+Date, Location, Area, Spot Number, McIntosh, Hale
+07/04 N24W88 30 3 Cro Beta
+07/03 N24W75 0 0 0 0
+07/02 N24W62 0 0 0 0
+=======================================================
+Maximum predicted X-Ray Flare for NOAA12838 :: no-flare
 =======================================================
