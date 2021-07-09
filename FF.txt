@@ -1,19 +1,19 @@
-Issued: 2021/07/08 0200 UT
+Issued: 2021/07/09 0200 UT
 Forecast valid for 24 hours
 
 NOAA12839 3-days data: 
 Date, Location, Area, Spot Number, McIntosh, Hale
+07/09 N19W14 10 1 Axx Alpha
 07/08 N19W03 10 1 Axx Alpha
 07/07 N19E10 20 6 Cro Beta
-07/06 N19E23 50 5 Cao Beta
 =======================================================
 Maximum predicted X-Ray Flare for NOAA12839 :: no-flare
 =======================================================
 NOAA12840 3-days data: 
 Date, Location, Area, Spot Number, McIntosh, Hale
+07/09 N27W90 10 2 Bxo Beta
 07/08 N27W76 10 4 Bxo Beta
 07/07 N27W63 10 2 Bxo Beta
-07/06 N27W50 0 0 0 0
 =======================================================
 Maximum predicted X-Ray Flare for NOAA12840 :: no-flare
 =======================================================
