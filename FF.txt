@@ -17,3 +17,35 @@ Date, Location, Area, Spot Number, McIntosh, Hale
 ============================================
 Maximum predicted X-Ray Flare for NOAA12845 :: C
 ============================================
+NOAA12846 3-days data: 
+Date, Location, Area, Spot Number, McIntosh, Hale
+07/22 N25E49 90 7 Cso Beta
+07/21 N25E63 90 5 Cso Beta
+07/20 N25E76 30 1 Hsx Alpha
+============================================
+Maximum predicted X-Ray Flare for NOAA12846 :: C
+============================================
+NOAA12847 3-days data: 
+Date, Location, Area, Spot Number, McIntosh, Hale
+07/22 S28E61 20 3 Cro Beta
+07/21 S29E74 20 3 Cro Beta
+07/20 S29E87 0 0 0 0
+============================================
+Maximum predicted X-Ray Flare for NOAA12847 :: C
+============================================
+NOAA12848 3-days data: 
+Date, Location, Area, Spot Number, McIntosh, Hale
+07/22 N20E16 10 4 Bxo Beta
+07/21 N20E29 0 0 0 0
+07/20 N20E42 0 0 0 0
+=======================================================
+Maximum predicted X-Ray Flare for NOAA12848 :: no-flare
+=======================================================
+NOAA12849 3-days data: 
+Date, Location, Area, Spot Number, McIntosh, Hale
+07/22 S18E75 0 1 Axx Alpha
+07/21 S18E88 0 0 0 0
+07/20 S18E101 0 0 0 0
+============================================
+Maximum predicted X-Ray Flare for NOAA12849 :: M
+============================================
