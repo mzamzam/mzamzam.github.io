@@ -1,51 +1,35 @@
-Issued: 2021/07/23 0200 UT
+Issued: 2021/07/24 0200 UT
 Forecast valid for 24 hours
 
-NOAA12842 3-days data: 
-Date, Location, Area, Spot Number, McIntosh, Hale
-07/23 N25W80 80 4 Cso Beta
-07/22 N25W66 80 7 Dsi Beta-Gamma
-07/21 N25W54 140 10 Dai Beta
-============================================
-Maximum predicted X-Ray Flare for NOAA12842 :: C
-============================================
-NOAA12845 3-days data: 
-Date, Location, Area, Spot Number, McIntosh, Hale
-07/23 S16W75 40 4 Cro Beta
-07/22 S15W61 60 4 Dso Beta
-07/21 S15W50 0 1 Axx Alpha
-=======================================================
-Maximum predicted X-Ray Flare for NOAA12845 :: no-flare
-=======================================================
 NOAA12846 3-days data: 
 Date, Location, Area, Spot Number, McIntosh, Hale
+07/24 N22E21 40 3 Cro Beta
 07/23 N26E35 100 4 Cro Beta
 07/22 N25E49 90 7 Cso Beta
-07/21 N25E63 90 5 Cso Beta
-============================================
-Maximum predicted X-Ray Flare for NOAA12846 :: C
-============================================
+=======================================================
+Maximum predicted X-Ray Flare for NOAA12846 :: no-flare
+=======================================================
 NOAA12847 3-days data: 
 Date, Location, Area, Spot Number, McIntosh, Hale
+07/24 S38E28 20 1 Hrx Alpha
 07/23 S28E47 40 1 Hrx Alpha
 07/22 S28E61 20 3 Cro Beta
-07/21 S29E74 20 3 Cro Beta
 =======================================================
 Maximum predicted X-Ray Flare for NOAA12847 :: no-flare
 =======================================================
 NOAA12848 3-days data: 
 Date, Location, Area, Spot Number, McIntosh, Hale
+07/24 N21W10 10 1 Axx Alpha
 07/23 N21E02 10 2 Bxo Beta
 07/22 N20E16 10 4 Bxo Beta
-07/21 N20E29 0 0 0 0
 =======================================================
 Maximum predicted X-Ray Flare for NOAA12848 :: no-flare
 =======================================================
 NOAA12849 3-days data: 
 Date, Location, Area, Spot Number, McIntosh, Hale
+07/24 S20E46 10 1 Axx Alpha
 07/23 S18E61 20 2 Axx Alpha
 07/22 S18E75 0 1 Axx Alpha
-07/21 S18E88 0 0 0 0
 =======================================================
 Maximum predicted X-Ray Flare for NOAA12849 :: no-flare
 =======================================================
