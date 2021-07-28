@@ -1,19 +1,19 @@
-Issued: 2021/07/27 0200 UT
+Issued: 2021/07/28 0200 UT
 Forecast valid for 24 hours
 
 NOAA12846 3-days data: 
 Date, Location, Area, Spot Number, McIntosh, Hale
+07/28 N24W33 0 4 Bxo Beta
 07/27 N24W20 10 4 Bxo Beta
 07/26 N25W05 30 3 Cro Beta
-07/25 N25E07 30 3 Cro Beta
 =======================================================
 Maximum predicted X-Ray Flare for NOAA12846 :: no-flare
 =======================================================
 NOAA12847 3-days data: 
 Date, Location, Area, Spot Number, McIntosh, Hale
+07/28 S28W14 0 1 Axx Alpha
 07/27 S28W00 10 1 Axx Alpha
 07/26 S27E13 0 1 Axx Alpha
-07/25 S27E24 10 1 Hrx Alpha
 =======================================================
 Maximum predicted X-Ray Flare for NOAA12847 :: no-flare
 =======================================================
