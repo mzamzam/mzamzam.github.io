@@ -1,11 +1,11 @@
-Issued: 2021/08/03 0200 UT
+Issued: 2021/08/04 0200 UT
 Forecast valid for 24 hours
 
 NOAA12850 3-days data: 
 Date, Location, Area, Spot Number, McIntosh, Hale
+08/04 S32W29 20 3 Cro Beta
 08/03 S32W29 20 3 Cro Beta
 08/02 S32W16 0 0 0 0
-08/01 S32W03 0 0 0 0
 =======================================================
 Maximum predicted X-Ray Flare for NOAA12850 :: no-flare
 =======================================================
