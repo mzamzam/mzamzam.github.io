@@ -1,27 +1,6 @@
-Issued: 2021/08/06 0200 UT
+Issued: 2021/08/07 0200 UT
 Forecast valid for 24 hours
 
-NOAA12850 3-days data: 
-Date, Location, Area, Spot Number, McIntosh, Hale
-08/06 S30W68 10 1 Axx Alpha
-08/05 S31W55 10 4 Bxo Beta
-08/04 S32W42 40 5 Cso Beta
-=======================================================
-Maximum predicted X-Ray Flare for NOAA12850 :: no-flare
-=======================================================
-NOAA12851 3-days data: 
-Date, Location, Area, Spot Number, McIntosh, Hale
-08/06 N15W07 10 2 Bxo Beta
-08/05 N15E06 0 0 0 0
-08/04 N15E19 0 0 0 0
-=======================================================
-Maximum predicted X-Ray Flare for NOAA12851 :: no-flare
-=======================================================
-NOAA12852 3-days data: 
-Date, Location, Area, Spot Number, McIntosh, Hale
-08/06 S11E42 10 3 Bxo Beta
-08/05 S11E55 0 0 0 0
-08/04 S11E68 0 0 0 0
-=======================================================
-Maximum predicted X-Ray Flare for NOAA12852 :: no-flare
-=======================================================
+=========================
+The Sun today is spotless
+=========================
