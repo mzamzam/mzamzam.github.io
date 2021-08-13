@@ -1,19 +1,11 @@
-Issued: 2021/08/12 0200 UT
+Issued: 2021/08/13 0200 UT
 Forecast valid for 24 hours
 
-NOAA12854 3-days data: 
-Date, Location, Area, Spot Number, McIntosh, Hale
-08/12 S21W33 10 1 Axx Alpha
-08/11 S21W20 0 0 0 0
-08/10 S21W07 0 0 0 0
-=======================================================
-Maximum predicted X-Ray Flare for NOAA12854 :: no-flare
-=======================================================
 NOAA12855 3-days data: 
 Date, Location, Area, Spot Number, McIntosh, Hale
+08/13 N13E47 10 1 Axx Alpha
 08/12 N13E61 10 1 Axx Alpha
 08/11 N13E74 0 0 0 0
-08/10 N13E87 0 0 0 0
 =======================================================
 Maximum predicted X-Ray Flare for NOAA12855 :: no-flare
 =======================================================
