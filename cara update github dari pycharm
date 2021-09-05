@@ -14,4 +14,4 @@ file yang tadi sudah dihapus.
 Jika file berwarna biru, artinya file tersebut ada mengalami perubahan dari terakhir kali di push.
 Untuk upload, klik commit lalu push.
 
-SARAN: lakukan commit dan push secara berkala.
+SARAN: lakukan commit secara berkala. Push cukup dilakukan sekali saja dalam satu hari.
