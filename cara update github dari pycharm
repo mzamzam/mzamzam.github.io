@@ -14,5 +14,7 @@ file yang tadi sudah dihapus.
 Jika file berwarna biru, artinya file tersebut ada mengalami perubahan dari terakhir kali di push.
 Untuk upload, klik commit lalu push.
 
-SARAN: lakukan commit secara berkala. Push cukup dilakukan sekali saja dalam satu hari. Namun ingat, jika hanya commit
+NOTE: lakukan commit secara berkala. Push cukup dilakukan sekali saja dalam satu hari. Namun ingat, jika hanya commit
 saja, file di github tidak akan otomatis tersinkron. Harus di push dulu. Jadi situasional saja mau commit dan push kapan.
+Saat melakukan commit berkali-kali tanpa push, notifikasi jumlah dan hal yng diubah tiap commit akan terlihat saat push
+diklik.
