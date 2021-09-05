@@ -5,7 +5,7 @@ klik kanan di file tersebut piilh Git laluklik Add (ctrl+alt+A), lalu nama file 
 Nama file warna hijau artinya sudah di add tpi belum di commit. pilih Git lalu klik commit (ctrl+K) lalu
 file akan berwarna putih.
 
-Nama File berwarna putih artinya file sudah di commit, yg berarti file tersebut belum teruploag ke github.
+Nama File berwarna putih artinya file sudah di commit, yg berarti file tersebut belum terupload ke github.
 Untuk upload ke github, klik Git pilih push (ctrl+shift+K). Jika push sukses, file akan terupdate di github.
 
 Jika ingin menghapus file, delete file, lalu commit lalu push. Jangan lupa saat commit pilih direktori dan
