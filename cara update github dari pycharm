@@ -1,0 +1,6 @@
+Cara update konten ke github dari Pycharm:
+Jika nama file masih warna merah artinya belum ditambahkan sehingga harus ditambahkan dulu dengan cara,
+klik kanan di file tersebut piilh Git laluklik Add (ctrl+alt+A), lalu nama file akan berwarna hijau.
+
+Nama file warna hijau artinya sudah di add tpi belum di commit. pilih Git lalu klik commit (ctrl+K) lalu
+file akan berwarna putih.
